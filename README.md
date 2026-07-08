@@ -1,22 +1,62 @@
-# ✨ Xentrix Coming Soon
+<div align="center">
+
+<img src="Xentrix.png" alt="Xentrix Banner" width="60%">
+
+<br><br>
+
+# 🤖 Xentrix
+
+### AI-Powered Browser-Based Hand Gesture Recognition Platform
+
+### Transform Your Hands Into Intelligent Controls
+
+Experience real-time AI gesture recognition powered by **MediaPipe**, **React**, **TypeScript**, **Firebase**, and modern Web APIs — all running directly inside your browser.
+
+<br>
+
+<a href="https://xentrix-vision.web.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Website-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/sovanshit/Xentrix">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://xentrix-vision.web.app/">
+    <img src="https://img.shields.io/badge/📱%20Install%20PWA-06B6D4?style=for-the-badge&logo=pwa&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square">
+
+<img src="https://img.shields.io/badge/React-18-blue?style=flat-square">
+
+<img src="https://img.shields.io/badge/TypeScript-5-blue?style=flat-square">
+
+<img src="https://img.shields.io/badge/MediaPipe-AI-orange?style=flat-square">
+
+<img src="https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square">
+
+<img src="https://img.shields.io/badge/PWA-Installable-purple?style=flat-square">
+
+<img src="https://img.shields.io/badge/Responsive-Yes-blue?style=flat-square">
+
+</div>
+
+---
+
+# 🌐 Live Demo
+
+Experience the live version of **Xentrix** and explore AI-powered gesture recognition directly in your browser.
 
 <div align="center">
 
-![Xentrix Banner](Xentrix.png)
+<a href="https://xentrix-vision.web.app/">
 
-### Real-Time AI Hand Gesture Recognition — Powered Entirely by Your Browser
+<img src="https://img.shields.io/badge/🌍%20Launch%20Xentrix-Live-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white">
 
-A modern browser-based AI platform that transforms natural hand gestures into real-time digital interactions using MediaPipe and Computer Vision.
-
-[![React](https://img.shields.io/badge/React-18-blue?logo=react)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)]()
-[![Vite](https://img.shields.io/badge/Vite-5-purple?logo=vite)]()
-[![Firebase](https://img.shields.io/badge/Firebase-Hosting-orange?logo=firebase)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
-
-🌐 **Live Website:** 
-
-⭐ Star this repository if you like the project!
+</a>
 
 </div>
 
@@ -24,276 +64,502 @@ A modern browser-based AI platform that transforms natural hand gestures into re
 
 # 📖 About
 
-Xentrix is an AI-powered web application that performs real-time hand tracking and gesture recognition entirely inside the browser.
+**Xentrix** is a browser-based Artificial Intelligence platform that transforms natural hand gestures into powerful digital interactions.
 
-Unlike traditional computer vision applications, Xentrix requires **no software installation**, **no backend server**, and **no cloud processing**. Every gesture is processed locally using modern browser technologies, ensuring high performance, low latency, and complete user privacy.
+Built using **React**, **TypeScript**, **MediaPipe**, **Firebase**, and modern Web APIs, Xentrix enables users to interact with multiple AI modules—including **Gesture Recognition**, **Virtual Mouse**, **Air Drawing**, and **Finger Counter**—without requiring any software installation.
 
-The platform combines computer vision, responsive web technologies, and modern UI design to provide an intuitive and interactive gesture-based experience.
+Unlike traditional computer vision applications, every AI model runs entirely inside the browser, ensuring:
 
----
+- ⚡ Faster performance
+- 🔒 Better privacy
+- 🖥️ Zero backend AI processing
+- 🌍 Cross-platform compatibility
+- 📱 Progressive Web App support
+- 🚀 Near real-time gesture recognition
 
-# 🚀 Development Timeline
-
-## 🚀 Development Timeline
-
-| Phase | Duration |
-|------------------------------|-------------------------|
-| Project Planning & Research | April 2025 |
-| UI/UX Design | May – July 2025 |
-| AI Integration & Prototype Development | August – October 2025 |
-| Project Enhancement & Development Pause | November 2025 – January 2026 |
-| Core Feature Development | February – April 2026 |
-| Testing, Optimization & Bug Fixes | May – June 2026 |
-| Public Release | August 2026 |
-
-**Development Period:** **April 2025 – July 2026**
+Xentrix demonstrates how modern web technologies and browser-based machine learning can create intelligent, interactive experiences using only a webcam.
 
 ---
 
-# ✨ Features
+## 🎯 Objectives
 
-- 🤖 Real-Time AI Hand Tracking
-- ✋ Gesture Recognition
-- 🎨 Air Drawing
-- 🖱 Virtual Mouse Control
-- 🔢 Finger Counter
-- 📷 Live Webcam Processing
-- 📊 Real-Time Analytics
-- ⚡ Browser-Based AI Processing
-- 🔒 Privacy-Focused Architecture
-- 📱 Fully Responsive UI
-- 🌙 Modern Dark Interface
-- 🚀 Progressive Web App (PWA)
+- Build a browser-based AI gesture recognition platform.
+- Demonstrate real-time hand tracking using MediaPipe.
+- Replace traditional input methods with natural gestures.
+- Deliver high-performance client-side AI processing.
+- Create a modern and responsive Progressive Web App.
+- Showcase practical AI applications using web technologies.
 
 ---
 
-# 🖥 Modules
+# ✨ Key Features
 
-### 🏠 Home
+<table>
 
-Modern landing page introducing Xentrix and its capabilities.
+<tr>
 
----
+<td width="50%">
 
-### 🤖 AI Playground
+### 🤖 AI Recognition
 
-Interactive environment for testing all AI features.
+- Real-Time Hand Tracking
+- MediaPipe AI Integration
+- Gesture Detection
+- Live Landmark Visualization
+- Browser-Based Processing
 
----
+</td>
 
-### ✋ Gesture Recognition
+<td width="50%">
 
-Recognizes hand gestures in real time.
+### 🖱 Interactive Modules
 
----
+- AI Playground
+- Gesture Recognition
+- Virtual Mouse
+- Air Drawing
+- Finger Counter
 
-### 🎨 Air Drawing
+</td>
 
-Draw naturally using your index finger.
+</tr>
 
----
+<tr>
 
-### 🖱 Virtual Mouse
+<td>
 
-Control the mouse cursor using hand movement.
+### ⚡ Performance
 
----
+- Zero Backend AI
+- High FPS Processing
+- Low Latency
+- Optimized Rendering
+- Camera Permission Handling
 
-### 🔢 Finger Counter
+</td>
 
-Counts raised fingers instantly.
+<td>
 
----
+### 🌐 Platform Features
 
-### 📊 Live Analytics
-
-Displays
-
-- Detection Time
-- FPS
-- Handedness
-- Coordinates
-- Gesture Name
-
----
-
-### 📚 Documentation
-
-Complete documentation and project information.
-
----
-
-# 📸 Screenshots
-
-| Home |
-|------|
-| ![](./screenshots/Xentrix%20Home.png) |
-
-| AI Playground |
-|------|
-| ![](./screenshots/Xentrix%20AI%20Playground.png) |
-
-| Gesture Recognition |
-|------|
-| ![](screenshots/gesture.png) |
-
-| Air Drawing |
-|------|
-| ![](screenshots/airdrawing.png) |
-
-| Virtual Mouse |
-|------|
-| ![](screenshots/mouse.png) |
-
-| Finger Counter |
-|------|
-| ![](screenshots/fingercounter.png) |
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Framer Motion
-
-## AI
-
-- MediaPipe Tasks Vision
-
-## UI
-
-- Lucide React
-- React Helmet
-- React Hot Toast
-- Chart.js
-
-## Deployment
-
+- Progressive Web App (PWA)
+- Installable on Desktop & Mobile
+- Responsive Design
+- Modern Glassmorphism UI
 - Firebase Hosting
 
----
+</td>
 
-# 📦 Install Xentrix
+</tr>
 
-Xentrix is available as both a **Progressive Web App (PWA)** and an **Android APK**, allowing users to experience real-time AI hand gesture recognition on desktop and mobile devices.
-
----
-
-## 🌐 Live Web Application
-
-![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-8B5CF6?style=for-the-badge)![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-8B5CF6?style=for-the-badge)
-
-Launch instantly in any modern browser with no installation required.
+</table>
 
 ---
 
-## 📱 Install as a Progressive Web App (Recommended)
+# ⚙️ Tech Stack
 
-### Desktop (Chrome / Edge)
+<div align="center">
 
-1. Open the live website.
-2. Click the **Install App** icon in the address bar.
-3. Select **Install**.
-4. Launch Xentrix directly from your desktop.
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,firebase,git,vscode" />
 
-### Android
+<br><br>
 
-1. Open the website in **Google Chrome**.
-2. Tap the **⋮** menu.
-3. Select **Install App** or **Add to Home Screen**.
-4. Confirm the installation.
+| Frontend | AI & Vision | Database / Hosting | Tools |
+|-----------|-------------|--------------------|-------|
+| React 18 | MediaPipe Tasks Vision | Firebase Hosting | VS Code |
+| TypeScript | TensorFlow Web APIs | Cloud Firestore | Git |
+| Vite | Browser Camera API | Firebase SDK | GitHub |
+| Tailwind CSS | Canvas API | PWA | npm |
 
-### iPhone / iPad
-
-1. Open the website in **Safari**.
-2. Tap **Share**.
-3. Select **Add to Home Screen**.
-4. Tap **Add**.
+</div>
 
 ---
 
-# 📥 Android APK
+# 🚀 Project Workflow
 
-For users who prefer a standalone Android application, download the latest APK directly from this repository.
+```mermaid
+flowchart LR
 
-### Download APK
+A[👤 User]
 
-👉 **https://github.com/sovanshit/Xentrix/blob/main/apk/Xentrix.apk**
+A --> B[🌐 Xentrix Web App]
 
-> **Note:** GitHub may open the file preview. Click **Download** to save the APK.
+B --> C[📷 Camera Access]
 
-After downloading:
+C --> D[🤖 MediaPipe AI Model]
 
-1. Enable **Install from Unknown Sources** (if prompted).
-2. Install the APK.
-3. Grant **Camera Permission** when launching Xentrix.
-4. Start exploring AI-powered hand gesture recognition.
+D --> E[✋ Hand Landmark Detection]
 
----
+E --> F{Recognized Gesture}
 
-## 📌 Which version should I use?
+F -->|👆 Finger Counter| G1[Display Count]
 
-| Version | Recommended For |
-|---------|-----------------|
-| 🌐 Progressive Web App (PWA) | Most users (always up to date) |
-| 📱 Android APK | Offline installation and manual deployment |
+F -->|🖱 Virtual Mouse| G2[Move Cursor]
 
----
+F -->|🎨 Air Drawing| G3[Canvas Drawing]
 
-# 🔒 Privacy
+F -->|🤖 Gesture Recognition| G4[Predict Gesture]
 
-Xentrix processes every camera frame locally inside the browser.
+G1 --> H[Browser UI]
 
-✔ No backend
+G2 --> H
 
-✔ No cloud processing
+G3 --> H
 
-✔ No video uploads
+G4 --> H
 
-✔ No user tracking
-
-✔ Camera data never leaves your device
-
----
-
-# ⚙ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Xentrix.git
+H --> I[Firebase Analytics & Hosting]
 ```
 
-Install dependencies
+---
+
+# 📂 Project Modules
+
+| Module | Description |
+|---------|-------------|
+| 🏠 Home | Modern landing page introducing Xentrix and browser-based AI. |
+| 🤖 AI Playground | Central hub to launch all AI-powered gesture modules. |
+| ✋ Gesture Recognition | Recognizes predefined hand gestures in real time. |
+| 🖱 Virtual Mouse | Controls cursor using hand movements. |
+| 🎨 Air Drawing | Draw freely in the browser using finger tracking. |
+| ✌ Finger Counter | Detects and counts raised fingers instantly. |
+| 📖 Documentation | Learn about the technology behind Xentrix. |
+| 📞 Contact | Connect with the developer and collaborators. |
+
+---
+
+## 📌 Core Functionalities
+
+- ✅ Browser-Based AI Processing
+- ✅ Real-Time Hand Tracking
+- ✅ Gesture Recognition
+- ✅ Virtual Mouse
+- ✅ Air Drawing
+- ✅ Finger Counter
+- ✅ Progressive Web App (PWA)
+- ✅ Firebase Hosting
+- ✅ Responsive Design
+- ✅ Modern Glassmorphism Interface
+- ✅ Dark User Interface
+- ✅ High Performance Processing
+
+---
+
+# 📸 Project Screenshots
+
+A quick overview of the Xentrix interface and its primary AI modules.
+
+---
+
+## 🏠 Home Page
+
+The landing page introduces Xentrix with a futuristic glassmorphism interface, animated backgrounds, and quick access to AI-powered gesture modules.
+
+<img src="screenshots/Xentrix Home.png" alt="Xentrix Home">
+
+---
+
+## 🤖 AI Playground
+
+The AI Playground serves as the central workspace where users can launch different gesture-powered tools and experience real-time browser AI.
+
+<img src="screenshots/Xentrix AI Playground.png" alt="Xentrix AI Playground">
+
+---
+
+# 🤖 Gesture Recognition
+
+Xentrix uses Google's **MediaPipe Tasks Vision** to detect and classify hand gestures directly inside the browser.
+
+No images or videos are uploaded to any server—everything is processed locally for maximum privacy and speed.
+
+---
+
+## Recognition Features
+
+| Feature | Description |
+|---------|-------------|
+| ✋ Real-Time Hand Tracking | Detects hands instantly using the webcam |
+| 🤖 AI Gesture Recognition | Identifies predefined hand gestures |
+| ⚡ Ultra Fast Prediction | Browser-based inference with low latency |
+| 🎯 High Accuracy | AI-powered landmark detection |
+| 🔒 Privacy First | Processing stays entirely on your device |
+
+---
+
+# 🖱 Virtual Mouse
+
+The Virtual Mouse module allows users to control the computer cursor using only hand gestures.
+
+Natural finger movements are translated into smooth cursor actions without requiring a physical mouse.
+
+---
+
+## Virtual Mouse Features
+
+| Feature | Description |
+|---------|-------------|
+| 🖱 Cursor Movement | Move the mouse with hand motion |
+| 👆 Left Click | Perform click gestures |
+| ✌ Right Click | Dedicated gesture support |
+| 📜 Scroll Support | Navigate pages naturally |
+| ⚡ Smooth Tracking | AI-based motion smoothing |
+
+---
+
+# 🎨 Air Drawing
+
+Air Drawing transforms your finger into a virtual pen, allowing you to draw freely in the air.
+
+The browser tracks fingertip movement and renders drawings in real time.
+
+---
+
+## Air Drawing Features
+
+| Feature | Description |
+|---------|-------------|
+| ✏️ Virtual Pen | Draw using your index finger |
+| 🎨 Multiple Colors | Switch drawing colors |
+| 🧹 Eraser Mode | Remove drawings easily |
+| 💾 Save Canvas | Download artwork instantly |
+| ⚡ Real-Time Rendering | Smooth drawing experience |
+
+---
+
+# ✌ Finger Counter
+
+The Finger Counter module detects raised fingers using MediaPipe hand landmarks.
+
+It instantly displays the number of visible fingers with high accuracy.
+
+---
+
+## Finger Counter Features
+
+| Feature | Description |
+|---------|-------------|
+| ✋ Finger Detection | Detects all five fingers |
+| 🔢 Live Counting | Instant finger count |
+| ⚡ Fast Processing | Real-time browser inference |
+| 📷 Webcam Support | Works directly from camera |
+| 🤖 AI Landmark Detection | Powered by MediaPipe |
+
+---
+
+# ☁️ Firebase Integration
+
+Xentrix uses **Firebase** for modern cloud infrastructure while keeping AI processing entirely inside the browser.
+
+Firebase powers hosting and analytics without affecting user privacy.
+
+---
+
+## Firebase Services
+
+| Service | Purpose |
+|----------|---------|
+| 🌐 Firebase Hosting | Fast global website deployment |
+| 📊 Firebase Analytics | Visitor insights and usage statistics |
+| 🔥 Firebase SDK | Application integration |
+
+---
+
+## Benefits of Firebase
+
+- ⚡ Fast Global Hosting
+- 🔒 Secure Infrastructure
+- 📈 Usage Analytics
+- 🚀 Reliable Deployment
+- 🌍 CDN Powered Delivery
+
+---
+
+# 📂 Project Structure
+
+```text
+📦 Xentrix
+│
+├── 📂 public
+│   ├── icons
+│   ├── images
+│   └── manifest
+│
+├── 📂 src
+│   ├── components
+│   ├── pages
+│   ├── hooks
+│   ├── services
+│   ├── styles
+│   ├── utils
+│   ├── data
+│   ├── types
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── 📂 screenshots
+│
+├── 📜 index.html
+├── 📜 package.json
+├── 📜 vite.config.ts
+├── 📜 tailwind.config.js
+├── 📜 firebase.json
+├── 📜 .firebaserc
+└── 📜 README.md
+```
+
+---
+
+# 🏗 Project Architecture
+
+```mermaid
+graph TD
+
+A[👤 User]
+
+A --> B[React + Vite]
+
+B --> C[Browser Camera]
+
+C --> D[MediaPipe Tasks Vision]
+
+D --> E[Gesture Recognition]
+
+E --> F[Virtual Mouse]
+
+E --> G[Air Drawing]
+
+E --> H[Finger Counter]
+
+F --> I[User Interface]
+
+G --> I
+
+H --> I
+
+I --> J[Firebase Hosting]
+```
+
+---
+
+## Folder Description
+
+| Folder | Description |
+|---------|-------------|
+| 📂 components | Reusable UI components |
+| 📂 pages | Application pages |
+| 📂 hooks | Custom React hooks |
+| 📂 services | AI and utility services |
+| 📂 styles | Global styling |
+| 📂 utils | Helper functions |
+| 📂 data | Static data |
+| 📂 types | TypeScript definitions |
+| 📂 screenshots | README images |
+
+---
+
+> 📌 Xentrix follows a modular architecture that keeps AI processing, UI components, and application logic organized for scalability and future feature expansion.
+
+---
+
+# 🚀 Installation
+
+Follow these steps to run **Xentrix** locally.
+
+---
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/sovanshit/Xentrix.git
+```
+
+---
+
+## 2️⃣ Navigate to the Project
+
+```bash
+cd Xentrix
+```
+
+---
+
+## 3️⃣ Install Dependencies
 
 ```bash
 npm install
 ```
 
-Run development server
+---
+
+## 4️⃣ Configure Environment Variables
+
+Create a `.env` file in the project root.
+
+```env
+VITE_FIREBASE_API_KEY=YOUR_API_KEY
+VITE_FIREBASE_AUTH_DOMAIN=YOUR_AUTH_DOMAIN
+VITE_FIREBASE_PROJECT_ID=YOUR_PROJECT_ID
+VITE_FIREBASE_STORAGE_BUCKET=YOUR_STORAGE_BUCKET
+VITE_FIREBASE_MESSAGING_SENDER_ID=YOUR_SENDER_ID
+VITE_FIREBASE_APP_ID=YOUR_APP_ID
+```
+
+> **Note:** Environment variables are only required when enabling Firebase features.
+
+---
+
+## 5️⃣ Start Development Server
 
 ```bash
 npm run dev
 ```
 
-Build
+Open your browser and visit:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 6️⃣ Build for Production
 
 ```bash
 npm run build
 ```
 
-Preview
+---
+
+## 7️⃣ Preview Production Build
 
 ```bash
 npm run preview
 ```
 
-Deploy
+---
+
+## 8️⃣ Deploy to Firebase Hosting
+
+Install Firebase CLI (first time only):
+
+```bash
+npm install -g firebase-tools
+```
+
+Login to Firebase:
+
+```bash
+firebase login
+```
+
+Initialize Hosting (if not already configured):
+
+```bash
+firebase init hosting
+```
+
+Deploy the website:
 
 ```bash
 firebase deploy
@@ -301,86 +567,262 @@ firebase deploy
 
 ---
 
-# 📂 Project Structure
+# 🔒 Privacy & Security
 
-```
-src
-│
-├── components
-├── hooks
-├── pages
-├── utils
-├── styles
-├── assets
-│
-├── App.tsx
-├── main.tsx
-│
-public
-package.json
-vite.config.ts
-```
+Xentrix is designed with **privacy-first AI** principles.
+
+Unlike cloud-based AI services, all gesture recognition happens directly inside your browser.
+
+No webcam images are uploaded to external servers.
 
 ---
 
-# 🛣 Roadmap
+## Security Highlights
 
-- ✅ Gesture Recognition
-- ✅ Air Drawing
-- ✅ Virtual Mouse
-- ✅ Finger Counter
-- ✅ PWA Support
-- 🔄 Custom Gesture Training
-- 🔄 Multi-Hand Tracking
-- 🔄 Gesture Shortcuts
-- 🔄 Sign Language Recognition
-- 🔄 AI Whiteboard
-- 🔄 Browser Extension
+| Feature | Description |
+|---------|-------------|
+| 🔒 Local AI Processing | Recognition runs entirely inside the browser |
+| 📷 Camera Privacy | Webcam frames never leave your device |
+| ⚡ No Backend Required | Eliminates unnecessary server communication |
+| 🌐 Secure HTTPS Deployment | Hosted securely using Firebase Hosting |
+| 🚫 No Personal Data Collection | No account required to use AI features |
+| 🛡 Browser Permissions | Camera access only after user approval |
+
+---
+
+# 📈 Future Roadmap
+
+The following features are planned for future releases.
+
+| Feature | Status |
+|---------|:------:|
+| 🤟 Sign Language Recognition | 🚧 Planned |
+| 🖱 Advanced Virtual Mouse | 🚧 Planned |
+| 🎮 Gesture-Based Gaming Controls | 🚧 Planned |
+| 📱 Mobile Optimization | 🚧 Planned |
+| 🧠 Custom Gesture Training | 🚧 Planned |
+| 🤖 AI Gesture Assistant | 🚧 Planned |
+| 🎨 Multi-Layer Air Canvas | 🚧 Planned |
+| 🌍 Multi-language Support | 🚧 Planned |
+| ☁️ Cloud Sync | 🚧 Planned |
+| 📊 Gesture Analytics Dashboard | 🚧 Planned |
+
+---
+
+# 📊 Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| 💻 Frontend Pages | 8+ |
+| 🤖 AI Modules | 4 |
+| 📷 Webcam Support | Included |
+| 🧠 AI Engine | MediaPipe Tasks Vision |
+| ⚛ Frontend | React + TypeScript |
+| ⚡ Build Tool | Vite |
+| ☁️ Hosting | Firebase Hosting |
+| 📱 Responsive Design | Yes |
+| 🌙 Dark Theme | Yes |
+| 📦 PWA Support | Yes |
+
+---
+
+# ⚡ Performance Highlights
+
+| Feature | Status |
+|---------|:------:|
+| Browser-Based AI | ✅ |
+| GPU Acceleration | ✅ |
+| Real-Time Processing | ✅ |
+| Responsive UI | ✅ |
+| Progressive Web App | ✅ |
+| Cross-Platform Support | ✅ |
+| Offline Ready (PWA) | ✅ |
+
+---
+
+# 🌍 Browser Compatibility
+
+<div align="center">
+
+| Chrome | Edge | Brave | Opera | Firefox |
+|:------:|:----:|:-----:|:------:|:--------:|
+| ✅ | ✅ | ✅ | ✅ | ⚠️ Partial |
+
+</div>
+
+---
+
+# 💡 Why Xentrix?
+
+Xentrix demonstrates the power of **browser-native artificial intelligence**, combining modern web technologies with real-time computer vision.
+
+The project proves that advanced AI experiences can run entirely on the client side—without dedicated servers or expensive cloud infrastructure.
+
+Whether it's controlling a computer using gestures, drawing in the air, or recognizing hand movements, Xentrix showcases the future of human-computer interaction.
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
+Contributions are always welcome.
 
-1. Fork the repository
-
-2. Create your feature branch
-
-3. Commit your changes
-
-4. Push your branch
-
-5. Open a Pull Request
+Whether it's improving the UI, optimizing AI performance, fixing bugs, or suggesting new gesture modules, every contribution helps make Xentrix better.
 
 ---
 
-# 📄 License
+## Contribution Workflow
 
-Licensed under the MIT License.
+```text
+Fork Repository
+        │
+        ▼
+Create Feature Branch
+        │
+        ▼
+Commit Changes
+        │
+        ▼
+Push Branch
+        │
+        ▼
+Open Pull Request
+```
 
 ---
 
 # 👨‍💻 Developer
 
-**Sovan Shit**
+<div align="center">
 
-Frontend Developer | AI Enthusiast | MCA Student
+## Sovan Shit
 
-🌐 Portfolio
+### Frontend Developer • AI Web Developer
 
+Building modern browser-based AI experiences using cutting-edge web technologies.
 
+</div>
 
-📧 Email
+---
 
-sovanshit20@gmail.com
+### Responsibilities
+
+- 🎨 UI / UX Design
+- ⚛ React Development
+- 🤖 AI Feature Integration
+- ✋ Gesture Recognition System
+- 🖱 Virtual Mouse Development
+- 🎨 Air Drawing Module
+- ✌ Finger Counter
+- ☁ Firebase Hosting & Deployment
+- 📱 Responsive Design
+- ⚡ Performance Optimization
+- 📦 Progressive Web App (PWA)
+
+---
+
+# 🏆 Project Highlights
+
+- 🤖 Browser-Based Artificial Intelligence
+- ✋ Real-Time Hand Gesture Recognition
+- 🖱 AI Virtual Mouse
+- 🎨 Air Drawing Canvas
+- ✌ Finger Counter
+- ⚡ MediaPipe Tasks Vision Integration
+- ⚛ React + TypeScript
+- 🚀 Vite Powered
+- 🎨 Tailwind CSS UI
+- 🌙 Modern Glassmorphism Design
+- 📱 Fully Responsive
+- 📦 Progressive Web App (PWA)
+- ☁ Firebase Hosting
+- 🔒 Privacy-First Processing
+- 🌍 Cross-Platform Support
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to the amazing open-source technologies and communities that made Xentrix possible.
+
+- Google MediaPipe
+- TensorFlow
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Firebase
+- Lucide Icons
+- Motion
+- GitHub
+- VS Code
+- Open Source Community ❤️
+
+---
+
+# 📄 License
+
+This project is developed for **educational, research, and portfolio purposes**.
+
+You are welcome to explore the source code, learn from it, and build upon it for non-commercial use while giving appropriate credit.
+
+---
+
+# 🌍 Live Website
+
+Experience **Xentrix** directly in your browser.
+
+<div align="center">
+
+<a href="https://xentrix-vision.web.app">
+
+<img src="https://img.shields.io/badge/🚀%20Launch%20Xentrix-Live-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+</a>
+
+</div>
+
+---
+
+# ⭐ Repository Statistics
+
+<div align="center">
+
+![GitHub Repo stars](https://img.shields.io/github/stars/sovanshit/Xentrix?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/sovanshit/Xentrix?style=for-the-badge)
+
+![GitHub issues](https://img.shields.io/github/issues/sovanshit/Xentrix?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/sovanshit/Xentrix?style=for-the-badge)
+
+</div>
+
+---
+
+# 💙 Support the Project
+
+If you found **Xentrix** useful or interesting, please consider supporting the project.
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🐞 Report bugs
+
+💡 Suggest new AI features
+
+🤝 Share it with others
+
+Every contribution and every star motivates future development.
 
 ---
 
 <div align="center">
 
-## ⭐ Star this repository if you found it helpful!
+# ⭐ Thank You for Visiting Xentrix
 
-Made with ❤️ by Sovan Shit
+### Building the Future of Browser-Based Artificial Intelligence
+
+Made with ❤️ by **Sovan Shit**
 
 </div>
