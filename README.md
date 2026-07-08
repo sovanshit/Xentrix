@@ -271,7 +271,7 @@ The AI Playground serves as the central workspace where users can launch differe
 
 Xentrix uses Google's **MediaPipe Tasks Vision** to detect and classify hand gestures directly inside the browser.
 
-<img src="screenshots/Xentrix Gesture Recognition.png" alt="Xentrix AI Playground">
+<img src="screenshots/Xentrix Gesture Recognition.png" alt="Xentrix Gesture Recognition">
 
 ---
 
@@ -291,7 +291,7 @@ Xentrix uses Google's **MediaPipe Tasks Vision** to detect and classify hand ges
 
 The Virtual Mouse module allows users to control the computer cursor using only hand gestures.
 
-<img src="screenshots/Xentrix Virtual Mouse.png" alt="Xentrix AI Playground">
+<img src="screenshots/Xentrix Virtual Mouse.png" alt="Xentrix Virtual Mouse">
 
 ---
 
@@ -311,7 +311,7 @@ The Virtual Mouse module allows users to control the computer cursor using only 
 
 Air Drawing transforms your finger into a virtual pen, allowing you to draw freely in the air.
 
-<img src="screenshots/Xentrix Air Drawing.png" alt="Xentrix AI Playground">
+<img src="screenshots/Xentrix Air Drawing.png" alt="Xentrix Air Drawing">
 
 ---
 
@@ -331,7 +331,7 @@ Air Drawing transforms your finger into a virtual pen, allowing you to draw free
 
 The Finger Counter module detects raised fingers using MediaPipe hand landmarks.
 
-<img src="screenshots/Xentrix Finger Counter.png" alt="Xentrix AI Playground">
+<img src="screenshots/Xentrix Finger Counter.png" alt="Xentrix Finger Counter">
 
 ---
 
