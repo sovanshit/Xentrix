@@ -14,7 +14,7 @@ Experience real-time AI gesture recognition powered by **MediaPipe**, **React**,
 
 <br>
 
-<a href="https://xentrix-vision.web.app/">
+<a href="#">
     <img src="https://img.shields.io/badge/🚀%20Coming%20Soon-4F46E5?style=for-the-badge">
 </a>
 
@@ -22,7 +22,7 @@ Experience real-time AI gesture recognition powered by **MediaPipe**, **React**,
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://xentrix-vision.web.app/">
+<a href="#">
     <img src="https://img.shields.io/badge/📱%20Coming%20Soon-06B6D4?style=for-the-badge">
 </a>
 
@@ -52,7 +52,7 @@ Experience the live version of **Xentrix** and explore AI-powered gesture recogn
 
 <div align="center">
 
-<a href="https://xentrix-vision.web.app/">
+<a href="#">
 
 <img src="https://img.shields.io/badge/🚀%20Launch%20Xentrix-Launching%20Soon-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white">
 
@@ -769,13 +769,15 @@ You are welcome to explore the source code, learn from it, and build upon it for
 
 # 🌍 Live Website
 
-Experience **Xentrix** directly in your browser.
+The official public release of **Xentrix** is coming soon.
+
+Stay tuned for the launch and experience AI-powered gesture recognition directly in your browser.
 
 <div align="center">
 
-<a href="https://xentrix-vision.web.app">
+<a href="#">
 
-<img src="https://img.shields.io/badge/🚀%20Launch%20Xentrix-Public%20Release%20Soon-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/🚀%20Launch%20Soon-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white">
 
 </a>
 
