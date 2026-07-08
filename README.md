@@ -92,6 +92,30 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 
 ---
 
+# 🚀 Development Timeline
+
+| Phase | Duration |
+|--------------------------------------------|-------------------------|
+| Project Planning & Research | March 2025 |
+| UI / UX Design & Prototyping | April – June 2025 |
+| Frontend Development (React + Vite) | July – September 2025 |
+| AI Playground Development | October 2025 |
+| Hand Gesture Recognition Integration | November 2025 |
+| Virtual Mouse Development | December 2025 |
+| Air Drawing Module | January 2026 |
+| Finger Counter Module | February 2026 |
+| Research & Feature Planning | March 2026 |
+| PWA & Firebase Integration | April 2026 |
+| Testing & Performance Optimization | May – August 2026 |
+| Documentation & Open Source Preparation | September 2026 |
+| Public Release | October 2026 |
+
+**Development Period:** **March 2025 – October 2026**
+
+🌐 **Portfolio:** Live since **May 2025** — regularly updated with projects, AI experiments, internship experience, and new developments.
+
+---
+
 # ✨ Key Features
 
 <table>
