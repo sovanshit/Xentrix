@@ -15,7 +15,7 @@ Experience real-time AI gesture recognition powered by **MediaPipe**, **React**,
 <br>
 
 <a href="https://xentrix-vision.web.app/">
-    <img src="https://img.shields.io/badge/🚀%20Launch-Xentrix-Coming%20Soon-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20Xentrix-Coming%20Soon?style=for-the-badge&logo=googlechrome&logoColor=white&color=4F46E5">
 </a>
 
 <a href="https://github.com/sovanshit/Xentrix">
@@ -23,7 +23,7 @@ Experience real-time AI gesture recognition powered by **MediaPipe**, **React**,
 </a>
 
 <a href="https://xentrix-vision.web.app/">
-    <img src="https://img.shields.io/badge/📱%20Install-PWA-Coming%20Soon-06B6D4?style=for-the-badge&logo=pwa&logoColor=white&labelColor=1E293B">
+    <img src="https://img.shields.io/badge/📱%20Install%20PWA-Coming%20Soon?style=for-the-badge&logo=pwa&logoColor=white&color=06B6D4">
 </a>
 
 <br><br>
