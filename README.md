@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Xentrix Banner](Banner.jpg)
+![Xentrix Banner](Xentrix.png)
 
 ### Real-Time AI Hand Gesture Recognition — Powered Entirely by Your Browser
 
