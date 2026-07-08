@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Xentrix.png" alt="Xentrix Banner" width="60%">
+<img src="Xentrix.png" alt="Xentrix Banner" width="20%">
 
 <br><br>
 
