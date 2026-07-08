@@ -178,44 +178,70 @@ Complete documentation and project information.
 
 ---
 
-# 📦 Progressive Web App (PWA)
+# 📦 Install Xentrix
 
-Xentrix is available as a **Progressive Web App**, allowing users to install it directly from their browser for a more app-like experience.
+Xentrix is available as both a **Progressive Web App (PWA)** and an **Android APK**, allowing users to experience real-time AI hand gesture recognition on desktop and mobile devices.
 
-## Install on Desktop
+---
 
-1. Open the Live Website.
-2. Click the **Install App** icon in the browser address bar.
+## 🌐 Live Web Application
+
+🔗 https://xentrix-vision.web.app
+
+Launch instantly in any modern browser with no installation required.
+
+---
+
+## 📱 Install as a Progressive Web App (Recommended)
+
+### Desktop (Chrome / Edge)
+
+1. Open the live website.
+2. Click the **Install App** icon in the address bar.
 3. Select **Install**.
 4. Launch Xentrix directly from your desktop.
 
-## Install on Android
+### Android
 
-1. Open the website in Chrome.
+1. Open the website in **Google Chrome**.
 2. Tap the **⋮** menu.
-3. Choose **Install App** or **Add to Home Screen**.
+3. Select **Install App** or **Add to Home Screen**.
 4. Confirm the installation.
 
-## Install on iPhone
+### iPhone / iPad
 
-1. Open the website in Safari.
+1. Open the website in **Safari**.
 2. Tap **Share**.
 3. Select **Add to Home Screen**.
 4. Tap **Add**.
 
 ---
 
-# 📥 Download
+# 📥 Android APK
 
-### 🌐 Live Web Application
+For users who prefer a standalone Android application, download the latest APK directly from this repository.
 
-https://xentrix-vision.web.app
+### Download APK
 
-### 📲 Install as an App
+👉 **https://github.com/sovanshit/Xentrix/blob/main/apk/Xentrix.apk**
 
-Simply open the website in a supported browser and choose **Install App**.
+> **Note:** GitHub may open the file preview. Click **Download** to save the APK.
 
-No APK or desktop installer is required.
+After downloading:
+
+1. Enable **Install from Unknown Sources** (if prompted).
+2. Install the APK.
+3. Grant **Camera Permission** when launching Xentrix.
+4. Start exploring AI-powered hand gesture recognition.
+
+---
+
+## 📌 Which version should I use?
+
+| Version | Recommended For |
+|---------|-----------------|
+| 🌐 Progressive Web App (PWA) | Most users (always up to date) |
+| 📱 Android APK | Offline installation and manual deployment |
 
 ---
 
