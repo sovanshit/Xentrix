@@ -96,8 +96,8 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 
 | Phase | Duration |
 |--------------------------------------------|-------------------------|
-| Project Planning & Research | March 2025 |
-| UI / UX Design & Prototyping | April – June 2025 |
+| Project Planning & Research | February 2025 |
+| UI / UX Design & Prototyping | March – June 2025 |
 | Frontend Development (React + Vite) | July – September 2025 |
 | AI Playground Development | October 2025 |
 | Hand Gesture Recognition Integration | November 2025 |
@@ -105,10 +105,10 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 | Air Drawing Module | January 2026 |
 | Finger Counter Module | February 2026 |
 | Research & Feature Planning | March 2026 |
-| PWA & Firebase Integration | April 2026 |
-| Testing & Performance Optimization | May – August 2026 |
-| Documentation & Open Source Preparation | September 2026 |
-| Public Release | October 2026 |
+| PWA & Firebase Integration | April – May 2026 |
+| Testing & Performance Optimization | June – July 2026 |
+| Documentation & Open Source Preparation | August 2026 |
+| Public Release | September 2026 |
 
 **Development Period:** **March 2025 – October 2026**
 
