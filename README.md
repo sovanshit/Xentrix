@@ -186,7 +186,7 @@ Xentrix is available as both a **Progressive Web App (PWA)** and an **Android AP
 
 ## 🌐 Live Web Application
 
-🔗 https://xentrix-vision.web.app
+![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-8B5CF6?style=for-the-badge)![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-8B5CF6?style=for-the-badge)
 
 Launch instantly in any modern browser with no installation required.
 
