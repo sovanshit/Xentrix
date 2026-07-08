@@ -127,11 +127,11 @@ Complete documentation and project information.
 
 | Home |
 |------|
-| ![](Xentrix Home.png) |
+| ![](./screenshots/Xentrix%20Home.png) |
 
 | AI Playground |
 |------|
-| ![](Xentrix AI Playground.png) |
+| ![](./screenshots/Xentrix%20AI%20Playground.png) |
 
 | Gesture Recognition |
 |------|
