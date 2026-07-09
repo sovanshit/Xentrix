@@ -66,7 +66,7 @@ Experience the live version of **Xentrix** and explore AI-powered gesture recogn
 
 **Xentrix** is a browser-based Artificial Intelligence platform that transforms natural hand gestures into powerful digital interactions.
 
-Built using **React**, **TypeScript**, **MediaPipe**, **Firebase**, and modern Web APIs, Xentrix enables users to interact with multiple AI modules—including **Gesture Recognition**, **Virtual Mouse**, **Air Drawing**, and **Finger Counter**—without requiring any software installation.
+Built using **React**, **TypeScript**, **MediaPipe**, **Firebase**, and modern Web APIs, **Xentrix** enables users to interact with multiple AI-powered modules—including **Gesture Recognition**, **Virtual Mouse**, **Air Drawing**, **Finger Counter**, and **Neon Aura**—entirely within the browser, without requiring any software installation or backend AI processing.
 
 Unlike traditional computer vision applications, every AI model runs entirely inside the browser, ensuring:
 
