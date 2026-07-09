@@ -333,21 +333,130 @@ The Virtual Mouse module allows users to control the computer cursor using only 
 
 # 🎨 Air Drawing
 
-Air Drawing transforms your finger into a virtual pen, allowing you to draw freely in the air.
+Transform your hand into a virtual paintbrush with **Xentrix Air Drawing**. Draw naturally in the air using real-time hand tracking—no mouse, stylus, or touch input required. One hand controls drawing while the other manages colors, brush size, erase, and canvas actions.
 
 <img src="screenshots/Xentrix Air Drawing.png" alt="Xentrix Air Drawing">
 
 ---
 
-## Air Drawing Features
+## ✨ Air Drawing Features
 
 | Feature | Description |
 |---------|-------------|
-| ✏️ Virtual Pen | Draw using your index finger |
-| 🎨 Multiple Colors | Switch drawing colors |
-| 🧹 Eraser Mode | Remove drawings easily |
-| 💾 Save Canvas | Download artwork instantly |
-| ⚡ Real-Time Rendering | Smooth drawing experience |
+| ✍️ Finger Drawing | Draw naturally using your index finger |
+| 🎨 Smart Color Selection | Switch between multiple ink colors with hand gestures |
+| 📏 Dynamic Brush Size | Adjust brush thickness using finger pinch distance |
+| 🧽 Gesture Eraser | Erase drawings with an open-hand gesture |
+| 🗑️ Clear Canvas | Instantly clear the entire canvas using a fist gesture |
+| ↩️ Undo & Redo | Restore or revert recent strokes |
+| 💾 Download Artwork | Save your drawing as a PNG image |
+| ⚡ Real-Time Rendering | Smooth, low-latency drawing experience |
+| 🖥️ Browser-Based | No installation required—runs entirely in your browser |
+
+---
+
+## 🕹️ Gesture Controls
+
+| Gesture | Action |
+|---------|--------|
+| ☝️ Index Finger | Draw on the canvas |
+| ✋ Open Hand | Activate Eraser Mode |
+| 👊 Closed Fist | Clear the entire canvas |
+| 🤏 Thumb + Index Pinch | Adjust brush thickness |
+| 1️⃣–4️⃣ Fingers (Other Hand) | Select drawing color |
+| 🖱️ Undo / Redo / Download | Available through toolbar controls |
+
+---
+
+## 📸 Interface Overview
+
+The Air Drawing workspace provides a modern dark-themed interface designed for an intuitive drawing experience.
+
+### Workspace Includes
+
+- 🎨 Active color indicator
+- 🖌️ Live brush size display
+- ✨ Full-screen drawing canvas
+- ↩️ Undo & Redo controls
+- 💾 Download artwork button
+- 📖 Built-in gesture guide and usage instructions
+
+<img src="screenshots/Xentrix Air Drawing Controls.png" alt="Air Drawing Controls">
+
+---
+
+> 🚀 **Xentrix Air Drawing** demonstrates the power of browser-based AI hand tracking, enabling a seamless and interactive drawing experience using only natural hand gestures.
+
+---
+
+# 🌌 Neon Aura
+
+Neon Aura is an advanced visual demonstration of **real-time AI hand tracking**. It transforms detected hand landmarks into vibrant neon skeletons, glowing fingertip trails, dynamic particle effects, and interactive energy waves—creating an immersive futuristic experience powered entirely inside your browser.
+
+<img src="screenshots/Xentrix Neon Aura.png" alt="Xentrix Neon Aura">
+
+---
+
+## ✨ Neon Aura Features
+
+| Feature | Description |
+|---------|-------------|
+| 🌈 Neon Hand Skeleton | Real-time glowing hand landmark visualization |
+| ✨ Fingertip Particle Effects | Dynamic particles emitted from fingertips |
+| ⚡ Energy Shockwave | Trigger expanding neon waves using pinch gestures |
+| 🌩️ Cross-Hand Lightning | Animated energy links between both hands |
+| 🎨 Multiple Visual Themes | Rainbow, Cyberpunk, Lava, Ocean, and Galaxy |
+| 📊 Live Gesture Detection | Display current detected gesture instantly |
+| 📏 Hand Spread Analysis | Real-time hand openness percentage |
+| 🔊 Optional Sound Effects | Toggle immersive audio feedback |
+| ⚡ Browser-Based Rendering | Runs entirely in your browser without installation |
+
+---
+
+## 🎮 Gesture Controls
+
+| Gesture | Action |
+|---------|--------|
+| ✋ Open Hand | Activate Neon Aura visualization |
+| 🤏 Pinch Gesture | Trigger energy shockwave |
+| 👐 Two Hands | Generate cross-hand lightning effects |
+| 🌈 Theme Buttons | Switch between Neon Aura visual themes |
+| 🔊 Sound Toggle | Enable or disable sound effects |
+
+---
+
+## 🌈 Available Themes
+
+| Theme | Effect |
+|--------|--------|
+| 🌈 Rainbow | Multi-colored animated neon trails |
+| 💜 Cyberpunk | Purple and cyan futuristic glow |
+| 🔥 Lava | Orange and red energy particles |
+| 🌊 Ocean | Blue and aqua flowing effects |
+| 🌌 Galaxy | Cosmic purple nebula lighting |
+
+---
+
+## 📸 Interface Overview
+
+The Neon Aura module combines AI hand tracking with advanced visual effects for an immersive interactive experience.
+
+### Workspace Includes
+
+- 🌈 Live neon hand skeleton
+- ✨ Dynamic fingertip particles
+- ⚡ Interactive shockwave animation
+- 🌩️ Cross-hand energy connections
+- 📊 Real-time gesture information
+- 📏 Hand spread percentage
+- 🎨 Theme selector
+- 🔊 Audio control
+
+<img src="screenshots/Xentrix Neon Aura Themes.png" alt="Neon Aura Themes">
+
+---
+
+> 🚀 **Neon Aura** showcases the artistic side of AI-powered hand tracking by combining computer vision, particle systems, neon lighting, and real-time interaction into a futuristic browser experience.
 
 ---
 
