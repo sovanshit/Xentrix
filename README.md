@@ -104,15 +104,16 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 | Virtual Mouse Development | December 2025 |
 | Air Drawing Module | January 2026 |
 | Finger Counter Module | February 2026 |
-| Research & Feature Planning | March 2026 |
-| PWA & Firebase Integration | April – May 2026 |
-| Testing & Performance Optimization | June – July 2026 |
+| Neon Aura Visualization Module | March 2026 |
+| Research & Feature Planning | April 2026 |
+| PWA & Firebase Integration | May – June 2026 |
+| Testing & Performance Optimization | July 2026 |
 | Documentation & Open Source Preparation | August 2026 |
 | Public Release | September 2026 |
 
-**Development Period:** **March 2025 – October 2026**
+**Development Period:** **February 2025 – September 2026**
 
-🌐 **Portfolio:** Live since **May 2025** — regularly updated with projects, AI experiments, internship experience, and new developments.
+> 🚀 Xentrix evolved from a simple hand gesture recognition project into a comprehensive AI-powered browser platform featuring Gesture Recognition, Virtual Mouse, Air Drawing, Finger Counter, Neon Aura visualization, and an interactive AI Playground—demonstrating the potential of real-time computer vision directly in the browser.
 
 ---
 
@@ -128,21 +129,22 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 
 - Real-Time Hand Tracking
 - MediaPipe AI Integration
-- Gesture Detection
-- Live Landmark Visualization
-- Browser-Based Processing
+- Gesture Recognition
+- Live Hand Landmark Tracking
+- Browser-Based AI Processing
 
 </td>
 
 <td width="50%">
 
-### 🖱 Interactive Modules
+### 🖐 Interactive Modules
 
 - AI Playground
 - Gesture Recognition
 - Virtual Mouse
 - Air Drawing
 - Finger Counter
+- Neon Aura Visualization
 
 </td>
 
@@ -154,11 +156,11 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 
 ### ⚡ Performance
 
-- Zero Backend AI
-- High FPS Processing
-- Low Latency
-- Optimized Rendering
-- Camera Permission Handling
+- Zero Backend Processing
+- High FPS Rendering
+- Low Latency Response
+- Optimized AI Pipeline
+- Efficient Camera Handling
 
 </td>
 
@@ -168,9 +170,10 @@ Xentrix demonstrates how modern web technologies and browser-based machine learn
 
 - Progressive Web App (PWA)
 - Installable on Desktop & Mobile
-- Responsive Design
-- Modern Glassmorphism UI
+- Responsive Glassmorphism UI
 - Firebase Hosting
+- Modern Dark Theme
+- Cross-Browser Support
 
 </td>
 
@@ -210,29 +213,31 @@ A --> B[🌐 Xentrix Web App]
 
 B --> C[📷 Camera Access]
 
-C --> D[🤖 MediaPipe AI Model]
+C --> D[🤖 MediaPipe AI Engine]
 
-D --> E[✋ Hand Landmark Detection]
+D --> E[✋ Real-Time Hand Landmark Detection]
 
 E --> F{Recognized Gesture}
 
-F -->|👆 Finger Counter| G1[Display Count]
+F -->|🤖 Gesture Recognition| G1[Recognize Hand Gesture]
 
-F -->|🖱 Virtual Mouse| G2[Move Cursor]
+F -->|✋ Finger Counter| G2[Display Finger Count]
 
-F -->|🎨 Air Drawing| G3[Canvas Drawing]
+F -->|🖱 Virtual Mouse| G3[Control Mouse Cursor]
 
-F -->|🤖 Gesture Recognition| G4[Predict Gesture]
+F -->|🎨 Air Drawing| G4[Draw on Virtual Canvas]
 
-G1 --> H[Browser UI]
+F -->|🌌 Neon Aura| G5[Generate Interactive Neon Effects]
 
+G1 --> H[Interactive Browser UI]
 G2 --> H
-
 G3 --> H
-
 G4 --> H
+G5 --> H
 
-H --> I[Firebase Analytics & Hosting]
+H --> I[📊 Performance Monitoring]
+
+I --> J[☁️ Firebase Hosting & PWA]
 ```
 
 ---
@@ -241,14 +246,15 @@ H --> I[Firebase Analytics & Hosting]
 
 | Module | Description |
 |---------|-------------|
-| 🏠 Home | Modern landing page introducing Xentrix and browser-based AI. |
-| 🤖 AI Playground | Central hub to launch all AI-powered gesture modules. |
-| ✋ Gesture Recognition | Recognizes predefined hand gestures in real time. |
-| 🖱 Virtual Mouse | Controls cursor using hand movements. |
-| 🎨 Air Drawing | Draw freely in the browser using finger tracking. |
-| ✌ Finger Counter | Detects and counts raised fingers instantly. |
-| 📖 Documentation | Learn about the technology behind Xentrix. |
-| 📞 Contact | Connect with the developer and collaborators. |
+| 🏠 Home | Modern landing page introducing Xentrix and browser-based AI hand gesture technology. |
+| 🤖 AI Playground | Interactive hub to explore and launch all AI-powered gesture modules. |
+| ✋ Gesture Recognition | Recognizes predefined hand gestures with real-time landmark tracking. |
+| 🖱 Virtual Mouse | Control your mouse cursor and perform clicks using natural hand movements. |
+| 🎨 Air Drawing | Draw on a virtual canvas using finger gestures with colors, brush controls, and gesture-based tools. |
+| ✌️ Finger Counter | Detect and count raised fingers instantly with live hand analysis. |
+| 🌌 Neon Aura | Experience futuristic neon hand visualization with particles, energy effects, lightning, and multiple visual themes. |
+| 📖 Documentation | Explore guides, technologies, features, and implementation details of Xentrix. |
+| 📞 Contact | Connect with the developer for feedback, collaboration, or support. |
 
 ---
 
@@ -256,16 +262,22 @@ H --> I[Firebase Analytics & Hosting]
 
 - ✅ Browser-Based AI Processing
 - ✅ Real-Time Hand Tracking
-- ✅ Gesture Recognition
-- ✅ Virtual Mouse
-- ✅ Air Drawing
+- ✅ AI Gesture Recognition
+- ✅ Live Hand Landmark Detection
+- ✅ Virtual Mouse Control
+- ✅ Air Drawing Canvas
 - ✅ Finger Counter
+- ✅ Neon Aura Visualization
+- ✅ Dynamic Particle & Energy Effects
+- ✅ Multiple Interactive Themes
 - ✅ Progressive Web App (PWA)
 - ✅ Firebase Hosting
-- ✅ Responsive Design
+- ✅ Responsive Cross-Platform Design
 - ✅ Modern Glassmorphism Interface
-- ✅ Dark User Interface
-- ✅ High Performance Processing
+- ✅ Dark Mode User Experience
+- ✅ High-Performance Real-Time Rendering
+- ✅ Camera Permission Management
+- ✅ Zero Backend AI Processing
 
 ---
 
